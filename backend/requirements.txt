@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+joblib
+pandas
+scikit-learn==1.9.1
+numpy
+groq
+python-dotenv
+pymongo
+requests
+beautifulsoup4
+xgboost
+openai

@@ -1,0 +1,45 @@
+{
+    "model": "XGBoost",
+    "target": "price",
+    "dataset": "data/raw/morocco_retail_products.json",
+    "n_samples": 5235,
+    "n_features": 23,
+    "train_samples": 4188,
+    "test_samples": 1047,
+    "random_state": 42,
+    "metrics": {
+        "mae": 82.95170830478868,
+        "rmse": 362.442550052363,
+        "r2": 0.8737478631785325
+    },
+    "model_parameters": {
+        "n_estimators": 500,
+        "max_depth": 7,
+        "learning_rate": 0.05
+    },
+    "feature_columns": [
+        "category",
+        "brand",
+        "subcategory",
+        "unit",
+        "quantity",
+        "availability",
+        "promotion",
+        "promotion_type",
+        "source_retailer",
+        "advertised_in_flyer",
+        "year",
+        "month",
+        "day_of_week",
+        "product_name_length",
+        "product_name_word_count",
+        "product_name_first_number",
+        "product_name_number_count",
+        "has_4k",
+        "has_uhd",
+        "has_smart_tv",
+        "has_no_frost",
+        "has_quantity",
+        "has_unit"
+    ]
+}

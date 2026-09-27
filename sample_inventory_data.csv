@@ -1,0 +1,11 @@
+product_id,name,category,current_stock,price,cost_price,sales_last_month
+P001,T-Shirt Basic Cotton,Clothing,45,150.00,80.00,120
+P002,Jeans Slim Fit,Clothing,12,300.00,160.00,45
+P003,Sneakers Classic,Shoes,8,450.00,250.00,30
+P004,Leather Wallet,Accessories,55,120.00,50.00,15
+P005,Sunglasses Aviator,Accessories,3,200.00,90.00,25
+P006,Hoodie Winter Edition,Clothing,80,250.00,130.00,10
+P007,Running Shoes Pro,Shoes,5,600.00,350.00,40
+P008,Backpack Casual,Accessories,18,180.00,85.00,22
+P009,Cap Sports,Accessories,40,80.00,30.00,55
+P010,Jacket Waterproof,Clothing,2,400.00,220.00,18
